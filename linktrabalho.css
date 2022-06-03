@@ -1,0 +1,25 @@
+h1{
+color: white;
+background-color: gray;
+border-radius: 20px;
+width: 70%;
+font-size: 30px;
+}
+h2{
+	color: white;
+	background-color: gray;
+	border-radius: 20px;
+	width: 70%;
+	font-size: 30px;
+}
+p{
+	color:white;
+	font-size: 30px;
+}
+.bg{
+	background-image: url(88.jpg);
+	background-repeat: no-repeat; 
+	background-size: cover; 
+	background-position: ;
+	background-attachment: ;
+}
